@@ -1,1 +1,1 @@
-console.log("forked by polestar")
+alert("ITS BEEN CHANGED BY RUSLAN AGAIN")
